@@ -8,11 +8,11 @@
 pip install -r requirements.txt
 ~~~
 
-### 使用
+#### 使用
 
-data文件夹下为所用数据
-
-Dipca_demo.py为案例
+~~~ python
+python Dipca_demo.py
+~~~
 
 #### 参考
 
